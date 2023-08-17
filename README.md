@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, This is Jingjing Xue
+
+I'm a  a Ph.D student at the Networking Technology Research Centre, [Institute of Computing Technology of Chinese Academy of Sciences](http://www.ict.ac.cn/)
+
+- 🔭 I’m currently working on `distributed ML`， `time series`.
 
 <!--
 **sunnyxuejj/sunnyxuejj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
