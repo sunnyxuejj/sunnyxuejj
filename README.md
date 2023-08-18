@@ -1,4 +1,4 @@
-### Hi there 👋, This is Jingjing Xue
+### Hey 👋, This is Jingjing Xue
 
 I'm a  a Ph.D student at the Networking Technology Research Centre, [Institute of Computing Technology of Chinese Academy of Sciences](http://www.ict.ac.cn/)
 
